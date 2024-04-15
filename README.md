@@ -1,6 +1,6 @@
 # Ex-05-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
 
-## AIM
+### AIM
 
 To implement Pseudo Node configuration for Hadoop on ubuntu
 
